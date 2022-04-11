@@ -6,7 +6,7 @@ The objective of making this app is to learn how to manage state using Provider 
 
 ## Project Description
 
-It is a modern Todo app where users can add and delete there daily To-Dos.
+It is a modern day To-do application where users can add and delete there daily To-Dos.
 
 ## Getting Started
 
